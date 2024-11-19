@@ -72,5 +72,5 @@ During the development of this project:
 This project is open-source and available under the MIT License.
 
 ## Contact
-For any inquiries or further questions, feel free to reach out via [your-email@example.com].
+For any inquiries or further questions, feel free to reach out via [saichandhanyadav2002@gmail.com].
 
